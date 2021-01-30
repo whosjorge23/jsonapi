@@ -2,25 +2,25 @@
     {
         "id": 1,
         "imageUrl": "https://drive.google.com/uc?export=view&id=1PDSq7kk4bjTM1Ps_-DSKNpkgg7-jUY6K",
-        "name": "whosjorge23",
-        "description": "First Post Here",
-        "type": "Internet",
-        "article": ["paragraph1","paragraph2","paragraph3"]
+        "name": "Dark Web",
+        "description": "The Dark Web is a very dangerous place.",
+        "type": "internet",
+        "article": "The Dark Web is a very dangerous place where unexperienced people can be in trouble."
     },
     {
         "id": 2,
         "imageUrl": "https://drive.google.com/uc?export=view&id=1PBcdn5EnCTnLZHcjq51focp3UCjTIDmV",
-        "name": "BJK",
-        "description": "First Post Here",
+        "name": "MacOS BigSur",
+        "description": "MacOS BigSur changes everything.",
         "type": "os",
-        "article": ["paragraph1","paragraph2","paragraph3"]
+        "article": "The latest operative system from Cupertino is called Big Sur, this os changed completely the way how people use a Machintosh."
     },
     {
         "id": 3,
         "imageUrl": "https://drive.google.com/uc?export=view&id=1PCqLjk-R9ZtdTyRg_EYvAG26QdHYfkK0",
-        "name": "sdf",
-        "description": "First Post Here",
+        "name": "SwiftUI",
+        "description": "SwiftUI less code, better result.",
         "type": "develop",
-        "article": ["paragraph1","paragraph2","paragraph3"]
+        "article": "Article 3."
     }
 ]
