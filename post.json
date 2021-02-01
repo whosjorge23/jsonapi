@@ -5,23 +5,23 @@
         "name": "Dark Web",
         "description": "The Dark Web is a very dangerous place.",
         "type": "internet",
-        "article": "The Dark Web is a very dangerous place where unexperienced people can be in trouble."
+        "article": "The dark web refers to encrypted online content that is not indexed by conventional search engines. Sometimes, the dark web is also called the dark net. The dark web is a part of the deep web, which just refers to websites that do not appear on search engines. Most deep web content consists of private files hosted on Dropbox and its competitors or subscriber-only databases rather than anything illegal.\n\n Specific browsers, such as Tor Browser, are required to reach the dark web.1﻿ Using the dark web often provides considerably more privacy than just using Tor to access the web. Many dark web sites simply provide standard web services with more secrecy, which benefits political dissidents and people trying to keep medical conditions private. Unfortunately, online marketplaces for drugs, exchanges for stolen data, and other illegal activities get most of the attention."
     },
     {
         "id": 2,
         "imageUrl": "https://drive.google.com/uc?export=view&id=1PBcdn5EnCTnLZHcjq51focp3UCjTIDmV",
-        "name": "MacOS BigSur",
-        "description": "MacOS BigSur changes everything.",
+        "name": "macOS Big Sur",
+        "description": "macOS Big Sur changes everything.",
         "type": "os",
-        "article": "The latest operative system from Cupertino is called Big Sur, this os changed completely the way how people use a Machintosh."
+        "article": "macOS Big Sur elevates the most advanced desktop operating system in the world to a new level of power and beauty. Experience Mac to the fullest with a refined new design. Enjoy the biggest Safari update ever. Discover new features for Maps and Messages. And get even more transparency around your privacy."
     },
     {
         "id": 3,
         "imageUrl": "https://drive.google.com/uc?export=view&id=1PCqLjk-R9ZtdTyRg_EYvAG26QdHYfkK0",
         "name": "SwiftUI",
-        "description": "SwiftUI less code, better result.",
+        "description": "Better Apps. Less Code.",
         "type": "develop",
-        "article": "Article 3."
+        "article": "SwiftUI is an innovative, exceptionally simple way to build user interfaces across all Apple platforms with the power of Swift. Build user interfaces for any Apple device using just one set of tools and APIs. With a declarative Swift syntax that’s easy to read and natural to write, SwiftUI works seamlessly with new Xcode design tools to keep your code and design perfectly in sync. Automatic support for Dynamic Type, Dark Mode, localization, and accessibility means your first line of SwiftUI code is already the most powerful UI code you’ve ever written."
     },
     {
         "id": 4,
@@ -29,6 +29,6 @@
         "name": "iOS 14",
         "description": "iOS 14, less code, better result.",
         "type": "ios",
-        "article": "Article 43."
+        "article": "iOS 14 brings a fresh look to the things you do most often, making them easier than ever. New features help you get what you need in the moment. And the apps you use all the time become even more intelligent, more personal, and more private."
     }
 ]
