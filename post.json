@@ -33,7 +33,7 @@
     },
     {
         "id": 5,
-        "imageUrl": "https://drive.google.com/uc?export=view&id=1PCzo_1dCj9O69XX5pz_apT1mFzTbjvPh",
+        "imageUrl": "https://flutter.dev/assets/flutter-lockup-1caf6476beed76adec3c477586da54de6b552b2f42108ec5bc68dc63bae2df75.png",
         "name": "Flutter",
         "description": "One codebase and deploy on Android & iOS",
         "type": "develop",
