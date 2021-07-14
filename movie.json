@@ -14,5 +14,13 @@
         "year": "2019",
         "category": "Adventure",
         "trailer": "F6QaLsw8EWY"
+    },
+    {
+        "id":3,
+        "imageUrl": "https://drive.google.com/uc?export=view&id=1TNc_6F5OAXJBpbw9rBzKHmBR5V4VITs3",
+        "title": "Central Intelligence",
+        "year": "2016",
+        "category": "Action",
+        "trailer": "MxEw3elSJ8M"
     }
 ]
