@@ -22,5 +22,13 @@
         "year": "2016",
         "category": "Action",
         "trailer": "MxEw3elSJ8M"
+    },
+    {
+        "id":4,
+        "imageUrl": "https://drive.google.com/uc?export=view&id=1TNc_6F5OAXJBpbw9rBzKHmBR5V4VITs3",
+        "title": "Wrong Turn",
+        "year": "2003",
+        "category": "Horror",
+        "trailer": "naUUyD-_oPc"
     }
 ]
