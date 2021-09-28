@@ -49,10 +49,10 @@
     },
     {
         "id": 7,
-        "imageUrl": "https://hackernoon.com/hn-images/1*nlhD6_U277a1s_VxSbH11g.jpeg",
+        "imageUrl": "https://www.albert-learning.com/catalogue/img/preposition_of_place_600x350.jpg",
         "name": "Preposition",
         "description": "English Prepositions",
         "type": "English",
-        "article": "Ionic is a framework that allows you to use just one codebase and build apps for iOS and Android. The codebase is Angular, that why Ionic and React Native(Javascript) is the framework most use by web developers that wants to start to code for mobile.\n\nThe code is structured in this way there is the HTML that defines all the components and the basic layout of your app, then we find the SCSS that like in the web development is used to style the app, in the end, we have the most important part that is the TypeScript that makes do something to your app, for example, calculate BMI or read QRCodes. All these files are in group folders that are the same as your pages so you can make happen stuff between these pages.\n\nThe documentation is pretty easy to find and well written. There are tons of plugins so nowadays you can develop almost anything using this framework. Everyone who has a simple knowledge of web development can start developing apps in Ionic. So I recommend everybody to try out and share their fantasy with the world."
+        "article": "A preposition is a word or group of words used before a noun, pronoun, or noun phrase to show direction, time, place, location, spatial relationships, or to introduce an object. Some examples of prepositions are words like 'in,' 'at,' 'on,' 'of,' and 'to.'\n\nPrepositions in English are highly idiomatic. Although there are some rules for usage, much preposition usage is dictated by fixed expressions. In these cases, it is best to memorize the phrase instead of the individual preposition."
     }
 ]
