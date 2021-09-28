@@ -46,5 +46,13 @@
         "description": "My experience with Ionic",
         "type": "development",
         "article": "Ionic is a framework that allows you to use just one codebase and build apps for iOS and Android. The codebase is Angular, that why Ionic and React Native(Javascript) is the framework most use by web developers that wants to start to code for mobile.\n\nThe code is structured in this way there is the HTML that defines all the components and the basic layout of your app, then we find the SCSS that like in the web development is used to style the app, in the end, we have the most important part that is the TypeScript that makes do something to your app, for example, calculate BMI or read QRCodes. All these files are in group folders that are the same as your pages so you can make happen stuff between these pages.\n\nThe documentation is pretty easy to find and well written. There are tons of plugins so nowadays you can develop almost anything using this framework. Everyone who has a simple knowledge of web development can start developing apps in Ionic. So I recommend everybody to try out and share their fantasy with the world."
+    },
+    {
+        "id": 7,
+        "imageUrl": "https://hackernoon.com/hn-images/1*nlhD6_U277a1s_VxSbH11g.jpeg",
+        "name": "Preposition",
+        "description": "English Prepositions",
+        "type": "English",
+        "article": "Ionic is a framework that allows you to use just one codebase and build apps for iOS and Android. The codebase is Angular, that why Ionic and React Native(Javascript) is the framework most use by web developers that wants to start to code for mobile.\n\nThe code is structured in this way there is the HTML that defines all the components and the basic layout of your app, then we find the SCSS that like in the web development is used to style the app, in the end, we have the most important part that is the TypeScript that makes do something to your app, for example, calculate BMI or read QRCodes. All these files are in group folders that are the same as your pages so you can make happen stuff between these pages.\n\nThe documentation is pretty easy to find and well written. There are tons of plugins so nowadays you can develop almost anything using this framework. Everyone who has a simple knowledge of web development can start developing apps in Ionic. So I recommend everybody to try out and share their fantasy with the world."
     }
 ]
